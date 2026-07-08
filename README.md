@@ -34,7 +34,7 @@ Bachiller en Ingeniería Industrial (Universidad de Lima) con +3 años de experi
 - **[llm-gnn-aml-explainability](https://github.com/Alvaro192023/llm-gnn-aml-explainability)** — GNN + LLM para detección explicable de lavado de activos y SARs auditables. En revisión en Expert Systems with Applications. DOI 10.5281/zenodo.21230449.
 - **[rag-virtual-assistant](https://github.com/Alvaro192023/rag-virtual-assistant)** — Asistente RAG en n8n para consultas sobre bases documentales y estructuradas. ~60% menos tiempo de búsqueda.
 - **[datathon-sunass-2026](https://github.com/Alvaro192023/datathon-sunass-2026)** — Optimización del servicio de saneamiento: K-Means + ruteo (TSP). Finalista.
-- **[demand-forecasting-model](https://github.com/Alvaro192023/demand-forecasting-model)** — Modelo Random Forest de pronóstico de demanda con validación cruzada k-fold.
+- **[campaign-response-model](https://github.com/Alvaro192023/demand-forecasting-model)** — Modelo Random Forest de pronóstico de demanda con validación cruzada k-fold.
 
 ## Formación
 
