@@ -43,7 +43,7 @@ Convierto problemas de negocio en pipelines reproducibles, modelos de Machine Le
 
 - **[llm-gnn-aml-explainability](https://github.com/Alvaro192023/llm-gnn-aml-explainability)** — 🔬 *Repo insignia.* GNN + LLM para detección explicable de lavado de activos y SARs auditables. **Paper en revisión** en *Expert Systems with Applications* (DOI 10.5281/zenodo.21230449). PR-AUC 4.3× sobre el baseline; alucinaciones en SAR reducidas 21×. Con tests, Docker y CI.
 - **[datathon-sunass-2026](https://github.com/Alvaro192023/datathon-sunass-2026)** — 🏆 **Finalista Nacional.** Optimización operativa de una EPS de saneamiento: limpieza, K-Means y ruteo TSP (vecino más cercano + 2-opt).
-- **[regulatory-data-pipeline](https://github.com/Alvaro192023/regulatory-data-pipeline)** — Data Mart regulatorio (SMV · SBS · BVL) + segmentación comercial con K-Means; scraping y automatización con Power Automate + AI Builder.
+- **[regulatory-data-pipeline-v2](https://github.com/Alvaro192023/regulatory-data-pipeline-v2)** — Data Mart regulatorio (SMV · SBS · BVL) + segmentación comercial con K-Means; scraping y automatización con Power Automate + AI Builder.
 - **[credit-risk-neural-network](https://github.com/Alvaro192023/credit-risk-neural-network)** — Red neuronal (TensorFlow) para probabilidad de default; AUC-ROC 0.89 y umbral óptimo orientado a negocio.
 - **[rag-virtual-assistant](https://github.com/Alvaro192023/rag-virtual-assistant)** — Asistente RAG en n8n sobre bases documentales; ~60% menos tiempo de búsqueda. Autohospedable con Docker Compose.
 - **GenKVA** — Automatización operativa de procesos de negocio de punta a punta (Power Automate + AI Builder), reduciendo trabajo manual de semanas a minutos.
